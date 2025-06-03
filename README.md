@@ -3,3 +3,4 @@
 * 계산기(calculator.js)
   - add
   - subtract
+  - multifly
