@@ -4,3 +4,4 @@
   - add
   - subtract
   - multifly
+  - divide

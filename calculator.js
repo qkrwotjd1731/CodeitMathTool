@@ -9,3 +9,7 @@ const subtract = (a, b) => {
 const multifly = (a, b) => {
   return a * b
 }
+
+const divide = (a, b) => {
+  return a / b
+}
